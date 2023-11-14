@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+expo/
+# Build directories
+android/build/
+ios/build/
+# Logs
+*.log
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+# Lock files
+yarn.lock
+package-lock.json
+# IDE and editor directories
+.vscode/
+.idea/
+# Miscellaneous files
+.DS_Store
+# Expo debug files
+.expo/*
+# React Native specific files
+*.xcodeproj
+*.xcworkspace
+# Node.js generated files
+npm-debug.log*
